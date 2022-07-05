@@ -4,7 +4,9 @@ layout: page
 
 ## About me
 
-I am a Ph.D. candidate in Statistics under Prof [Wenqing He](https://www.uwo.ca/stats/people/bios/wenqing-he.html) at Western University. My research areas focuses on developing statistical methods to accommodate the measurement error/misclassification effect in dynamic treatment regimes.
+I am a Ph.D. candidate in Statistics under Dr. [Wenqing He](https://www.uwo.ca/stats/people/bios/wenqing-he.html) at Western University. I am also a member of the GW-DSRG research team under Dr. [Grace Y. Yi](http://fisher.stats.uwo.ca/faculty/yyi/) and Dr. [Wenqing He](https://www.uwo.ca/stats/people/bios/wenqing-he.html) at Western University.
+
+My research areas focuses on developing statistical methods to accommodate the measurement error/misclassification effect in dynamic treatment regimes.
 
 
 ## Publications
