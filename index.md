@@ -9,4 +9,4 @@ I am a Ph.D. candidate in Statistics under Prof [Wenqing He]{https://www.uwo.ca/
 
 ## Publications
 
-[A Real Time and  Interactive Web-Based Platform for Visualizing and Analyzing COVID-19 in Canada]{https://www.ccsenet.org/journal/index.php/ijsp/article/view/0/43346}. International Journal of Statistics and Probability (2020)
+[A Real Time and  Interactive Web-Based Platform for Visualizing and Analyzing COVID-19 in Canada](https://www.ccsenet.org/journal/index.php/ijsp/article/view/0/43346). International Journal of Statistics and Probability (2020)
