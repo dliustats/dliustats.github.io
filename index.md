@@ -4,7 +4,7 @@ layout: page
 
 ## About me
 
-I am a Ph.D. candidate in Statistics under Prof [Wenqing He]{https://www.uwo.ca/stats/people/bios/wenqing-he.html} at Western University. My research areas focuses on developing statistical methods to accommodate the measurement error/misclassification effect in dynamic treatment regimes.
+I am a Ph.D. candidate in Statistics under Prof [Wenqing He](https://www.uwo.ca/stats/people/bios/wenqing-he.html) at Western University. My research areas focuses on developing statistical methods to accommodate the measurement error/misclassification effect in dynamic treatment regimes.
 
 
 ## Publications
