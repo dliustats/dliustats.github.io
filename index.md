@@ -6,6 +6,10 @@ I received my Ph.D. in Statistics (Biostatistics) under Dr. [Wenqing He](https:/
 
 My research areas focuses on developing statistical methods to correct the measurement error/misclassification in dynamic treatment regimes. I am also researching on interactive data visualization and descriptive analysis in the COVID-19 data application. 
 
+## Research Interests
+1. Dynamic treatment regimes
+2. Measurement error, misclassification
+3. Machine learning
 
 ## Publications
 
