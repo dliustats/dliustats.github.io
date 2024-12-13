@@ -11,6 +11,6 @@ My research areas focuses on developing statistical methods to correct the measu
 
 [A Real Time and  Interactive Web-Based Platform for Visualizing and Analyzing COVID-19 in Canada](https://www.ccsenet.org/journal/index.php/ijsp/article/view/0/43346). _International Journal of Statistics and Probability (2020)._
 
-[Q-learning in Dynamic Treatment Regimes with Misclassified Binary Outcome](http://arxiv.org/abs/2404.04697). _Preprint._
+[Q-learning in Dynamic Treatment Regimes with Misclassified Binary Outcome](http://arxiv.org/abs/2404.04697). _Statistics in Medicine_
 
-[Dynamic Treatment Regimes with Replicated Observations Available for Error-prone Covariates: a Q-learning Approach](https://arxiv.org/abs/2404.04696). _Preprint._
+[Dynamic Treatment Regimes with Replicated Observations Available for Error-prone Covariates: a Q-learning Approach](https://arxiv.org/abs/2404.04696). _To appear in Statistics in Biosciences_
